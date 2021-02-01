@@ -1,0 +1,57 @@
+nav {
+    background-color:honeydew;
+    position:relative;
+    right:250px
+}
+body {
+    background-color: honeydew;
+}
+.nav-element {
+    float:inline-end;
+    width:200px
+}
+.navbar {
+    position: absolute;
+    /* right:900px */
+    left:0px;
+    width:2000px;
+}
+.header {
+    /* background-color: rosybrown; */
+    font-weight: bold;
+    text-align: center;
+  
+    /* margin-left:200px;
+    margin-right:200px */
+    /* padding-left: 500px;
+    padding-right:500px */
+    /* color:royalblue */
+}
+.gridImg {
+    width:800px;
+}
+th {
+    text-align: center;
+}
+/* .grid {
+    position: relative;
+    right:500px
+} */
+
+.col-md-6 img {
+    width: 500px
+}
+
+.links {
+    padding-top: 50px;
+    /* padding-left: 120px; */
+    text-align: center;
+}
+.summary {
+    width: 500px;
+    
+}
+.headRow {
+    position: relative;
+    left: 300px
+}
